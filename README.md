@@ -1,5 +1,8 @@
 # uicapp
 
+## 打包app
+### cordova build android --release
+
 # 打包发布版本
 ### java -jar "bundletool-all-1.12.1.jar" build-apks --mode=UNIVERSAL --bundle="app-release.aab" --output="release-app.apks"
 
